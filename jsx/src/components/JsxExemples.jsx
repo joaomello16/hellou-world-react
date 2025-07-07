@@ -19,8 +19,8 @@ const JsxExemples = () => {
 
     const users = [
         { id: 1, name: 'joao'},
-        { id: 2, name: 'jefor'},
-        { id: 3, name: 'dogla'},
+        { id: 2, name: 'j'},
+        { id: 3, name: 'dougla'},
     ]
 
   return (
